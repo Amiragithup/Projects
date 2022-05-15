@@ -1,0 +1,312 @@
+<html>
+  <head>
+    <title>Mobile Shopping</title>
+	<style> body{
+	background-image : url('https://i0.wp.com/saintpolicesystems.com/wp-content/uploads/2018/06/blue-light-backgrounds-background-opera-image-graphics-community-speeddials.jpg?fit=1200%2C750');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	}</style>
+  </head>
+  <body >
+ <section  style="padding-left:15%">
+
+       <h1>
+	   <font size="7">
+	   Lenovo Tab 7
+	   </font>
+	   </h1>
+	   
+	   <p>
+	   
+	   <font size="4" color="purple" face="franklin gothic"
+About the product
+
+ <br>
+Brand : Lenovo
+</br>
+ <br>
+Model : Tab 7
+ </br>
+  <br>
+ Price : 1,490 EGP
+ </br>
+ <br>
+the screen : 
+7-inch LCD touch screen
+ </br>
+  <br>
+ camera : 
+2MP rear camera, 2MP front camera
+ </br>
+ <br>
+
+memory : 
+16 GB internal memory, 1 GB RAM
+</br>
+ <br>
+
+the processor : 
+MediaTek Quad Core 1.3 GHz
+</br>
+ <br>
+Battery capacity : 
+3500 mAh
+</br>
+ <br>
+Connectivity : 
+Wi-Fi, GPS, Bluetooth 4.0, Micro USB 2.0
+</br>
+ <br>
+the color : 
+black
+</br>
+ </font>
+</p>
+
+
+<img src="https://jawalplus.com/wp-content/uploads/2018/03/Lenovo-Tab-7-1.jpg" style="padding-left:15%">
+
+</section  style="padding-left:15%">
+<hr>
+ <section  style="padding-left:15%">
+
+       <h1>
+	   <font size="7">
+	  Lenovo M10 TB-X606
+	   </font>
+	   </h1>
+	   
+	   <p>
+	   
+	   <font size="4" color="green" face="franklin gothic"
+About the product
+
+ <br>
+Brand : Lenovo
+</br>
+ <br>
+Model : M10 TB-X606
+ </br>
+  <br>
+ Price : 4,799 EGP
+ </br>
+ <br>
+the screen : 
+10.3 inch FHD (1920 x 1200) screen
+ </br>
+  <br>
+ camera : 
+back camera : 8 mega pixel , front camera : 5 mega pixel
+ </br>
+ <br>
+
+memory : 
+64 GB internal memory, 4 GB RAM
+</br>
+ <br>
+
+the processor : 
+MediaTek Helio P22T Octa Core Processor
+</br>
+ <br>
+Battery capacity : 
+5000 mAh
+</br>
+ <br>
+Connectivity : 
+Bluetooth, Wi-Fi, USB Type C
+</br>
+ <br>
+the color : 
+grey
+</br>
+ </font>
+</p>
+
+
+<img src="https://fdn.gsmarena.com/imgroot/news/20/03/lenovo-m10-plus-official/-727x400m/gsmarena_002.jpg" style="padding-left:15%">
+
+</section  style="padding-left:15%">
+<hr>
+ <section  style="padding-left:15%">
+
+       <h1>
+	   <font size="7">
+	   Lenovo Yoga Smart TB
+	   </font>
+	   </h1>
+	   
+	   <p>
+	   
+	   <font size="4" color="green" face="franklin gothic"
+About the product
+
+ <br>
+Brand : Lenovo
+</br>
+ <br>
+Model : Yoga Smart TB-YGX705
+ </br>
+  <br>
+ Price : 5,199 EGP
+ </br>
+ <br>
+the screen : 
+10.1 inch IPS touch screen, FHD (1920 x 1200) resolution
+ </br>
+  <br>
+ camera : 
+back camera : 8 mega pixel , front camera : 5 mega pixel
+ </br>
+ <br>
+
+memory : 
+64 GB internal memory, 4 GB RAM
+</br>
+ <br>
+
+the processor : 
+Qualcomm Snapdragon 439 Octa Core Processor
+</br>
+ <br>
+Battery capacity : 
+7000 mAh
+</br>
+ <br>
+Connectivity : 
+Bluetooth, Wi-Fi, USB Type C
+</br>
+ <br>
+the color : 
+grey
+</br>
+ </font>
+</p>
+
+
+<img src="https://t3me.com/ar/wp-content/uploads/sites/3/2020/02/l05.jpg" style="padding-left:15%">
+
+</section  style="padding-left:15%">
+<hr>
+<section  style="padding-left:15%">
+
+       <h1>
+	   <font size="7">
+	 Lenovo M10 TB-X505X
+	   </font>
+	   </h1>
+	   
+	   <p>
+	   
+	   <font size="4" color="green" face="franklin gothic"
+About the product
+
+ <br>
+Brand : Lenovo
+</br>
+ <br>
+Model : M10 TB-X505X
+ </br>
+  <br>
+ Price : 3,299 EGP
+ </br>
+ <br>
+the screen : 
+10.1 inch FHD (Full HD) touch screen
+ </br>
+  <br>
+ camera : 
+8MP rear camera, 5MP front camera
+ </br>
+ <br>
+
+memory : 
+32 GB internal memory, 2 GB RAM
+</br>
+ <br>
+
+the processor : 
+Qualcomm Snapdragon 429 Quad Core Processor
+</br>
+ <br>
+Battery capacity : 
+4850 mAh
+</br>
+ <br>
+Connectivity : 
+Bluetooth 4.2, Wi-Fi, Micro USB 2.0
+</br>
+ <br>
+the color : 
+black
+</br>
+ </font>
+</p>
+
+
+<img src="https://www.lenovo.com/medias/lenovo-tablet-m10-feature-3.png?context=bWFzdGVyfHJvb3R8MTYzOTI4fGltYWdlL3BuZ3xoZWIvaGI5Lzk4MzE1MDM5ODY3MTgucG5nfGNiNTg2ZmVkYTk0Y2FkZjg3ZTI3YzQ3MWU0ODI2YjIxOGNjZWI3MzFlNTk5OWY3OGI1NTIyNGQxNzNjNWFlMjk&w=1920" style="padding-left:15%">
+
+</section  style="padding-left:15%">
+<hr>
+<section  style="padding-left:15%">
+
+       <h1>
+	   <font size="7">
+	 Lenovo Tab 4 TB-X304 
+	   </font>
+	   </h1>
+	   
+	   <p>
+	   
+	   <font size="4" color="green" face="franklin gothic"
+About the product
+
+ <br>
+Brand : Lenovo
+</br>
+ <br>
+Model :Tab 4 TB-X304 
+ </br>
+  <br>
+ Price : 3,699 EGP
+ </br>
+ <br>
+the screen : 
+10.1 inch HD screen
+ </br>
+  <br>
+ camera : 
+5 mega pixel rear camera, 2 MP front camera
+ </br>
+ <br>
+
+memory : 
+Internal memory 16 GB, 2 GB RAM
+</br>
+ <br>
+
+the processor : 
+Snapdragon quad-core processor clocked at 1.4GHz
+</br>
+ <br>
+Battery capacity : 
+7000 mAh battery
+</br>
+ <br>
+Connectivity : 
+ Micro USB port, Wi-Fi, GPS, Bluetooth version 4.0
+</br>
+ <br>
+the color : 
+black
+</br>
+ </font>
+</p>
+
+
+<img src="https://specs1.com/wp-content/uploads/2017/05/Lenovo-Tab-4-8-600x476.jpeg">
+
+</section  style="padding-left:15%">
+  </body>
+</html>
